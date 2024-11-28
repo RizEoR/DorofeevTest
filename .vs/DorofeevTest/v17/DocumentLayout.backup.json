@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prakti\\DorofeevTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9E7E38-3C64-470C-9B81-5111617E8F0E}|DorofeevTest.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prakti\\dorofeevtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9E7E38-3C64-470C-9B81-5111617E8F0E}|DorofeevTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prakti\\DorofeevTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\prakti\\DorofeevTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:12:16.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
